@@ -1,12 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "/egQHBtHwOWHYoWEBzBaquKK8dVohtW7hXkNOdabXVvoX0TqmOnVFTESsps4VpCWX3LWhbIJCj+nvV5HDDFfqA==",
+  "dgSpecHash": "GwLjT2HvGZN4VUCqRF9Rc5YPb0Z78KDKujq3bji0BExzZncUJY+12l4Q+eRGJKRXWRXD4vV7S2efpy01HuqU8A==",
   "success": true,
   "projectFilePath": "C:\\Users\\jason\\source\\repos\\JPGScanner\\ImageExifScanner.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jason\\.nuget\\packages\\metadataextractor\\2.4.3\\metadataextractor.2.4.3.nupkg.sha512",
     "C:\\Users\\jason\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\jason\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
-    "C:\\Users\\jason\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+    "C:\\Users\\jason\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\xmpcore\\6.1.10\\xmpcore.6.1.10.nupkg.sha512"
   ],
   "logs": []
 }
