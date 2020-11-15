@@ -11,9 +11,11 @@ C:\Users\jason\source\repos\JPGScanner\bin\Debug\netcoreapp3.1\runtimes\unix\lib
 C:\Users\jason\source\repos\JPGScanner\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\jason\source\repos\JPGScanner\obj\Debug\netcoreapp3.1\ImageExifScanner.AssemblyInfoInputs.cache
 C:\Users\jason\source\repos\JPGScanner\obj\Debug\netcoreapp3.1\ImageExifScanner.AssemblyInfo.cs
-C:\Users\jason\source\repos\JPGScanner\obj\Debug\netcoreapp3.1\ImageExifScanner.csproj.CoreCompileInputs.cache
 C:\Users\jason\source\repos\JPGScanner\obj\Debug\netcoreapp3.1\ImageExifScanner.csproj.CopyComplete
 C:\Users\jason\source\repos\JPGScanner\obj\Debug\netcoreapp3.1\ImageExifScanner.dll
 C:\Users\jason\source\repos\JPGScanner\obj\Debug\netcoreapp3.1\ImageExifScanner.pdb
 C:\Users\jason\source\repos\JPGScanner\obj\Debug\netcoreapp3.1\ImageExifScanner.genruntimeconfig.cache
 C:\Users\jason\source\repos\JPGScanner\obj\Debug\netcoreapp3.1\ImageExifScanner.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\JPGScanner\bin\Debug\netcoreapp3.1\MetadataExtractor.dll
+C:\Users\jason\source\repos\JPGScanner\bin\Debug\netcoreapp3.1\XmpCore.dll
+C:\Users\jason\source\repos\JPGScanner\obj\Debug\netcoreapp3.1\ImageExifScanner.csproj.CoreCompileInputs.cache
