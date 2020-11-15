@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/egQHBtHwOWHYoWEBzBaquKK8dVohtW7hXkNOdabXVvoX0TqmOnVFTESsps4VpCWX3LWhbIJCj+nvV5HDDFfqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jason\\source\\repos\\JPGScanner\\ImageExifScanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
